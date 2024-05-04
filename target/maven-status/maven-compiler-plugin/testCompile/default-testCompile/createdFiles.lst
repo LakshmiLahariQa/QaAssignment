@@ -1,0 +1,4 @@
+com\crm\qa\testcases\LogoutPageTest.class
+com\crm\qa\testcases\CheckoutPageTest.class
+com\crm\qa\testcases\LoginPageTest.class
+com\crm\qa\testcases\ProductsPageTest.class

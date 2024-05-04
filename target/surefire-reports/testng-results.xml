@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-04T14:27:02 GST" name="Surefire suite" finished-at="2024-05-04T14:27:35 GST" duration-ms="32826">
+    <groups>
+    </groups>
+    <test started-at="2024-05-04T14:27:02 GST" name="Surefire test" finished-at="2024-05-04T14:27:35 GST" duration-ms="32826">
+      <class name="com.crm.qa.testcases.LogoutPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LogoutPageTest@119cbf96]" started-at="2024-05-04T14:27:23 GST" name="setUp" finished-at="2024-05-04T14:27:27 GST" duration-ms="3356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogoutPage()[pri:0, instance:com.crm.qa.testcases.LogoutPageTest@119cbf96]" started-at="2024-05-04T14:27:27 GST" name="verifyLogoutPage" finished-at="2024-05-04T14:27:27 GST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoutPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LogoutPageTest@119cbf96]" started-at="2024-05-04T14:27:27 GST" name="tearDown" finished-at="2024-05-04T14:27:27 GST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LogoutPageTest -->
+      <class name="com.crm.qa.testcases.ProductsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ProductsPageTest@71329995]" started-at="2024-05-04T14:27:27 GST" name="setUp" finished-at="2024-05-04T14:27:31 GST" duration-ms="3508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductsLogo()[pri:1, instance:com.crm.qa.testcases.ProductsPageTest@71329995]" started-at="2024-05-04T14:27:31 GST" name="verifyProductsLogo" finished-at="2024-05-04T14:27:31 GST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ProductsPageTest@71329995]" started-at="2024-05-04T14:27:31 GST" name="tearDown" finished-at="2024-05-04T14:27:31 GST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ProductsPageTest@71329995]" started-at="2024-05-04T14:27:31 GST" name="setUp" finished-at="2024-05-04T14:27:35 GST" duration-ms="3733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddProductstoCart()[pri:2, instance:com.crm.qa.testcases.ProductsPageTest@71329995]" started-at="2024-05-04T14:27:35 GST" name="AddProductstoCart" finished-at="2024-05-04T14:27:35 GST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductstoCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ProductsPageTest@71329995]" started-at="2024-05-04T14:27:35 GST" name="tearDown" finished-at="2024-05-04T14:27:35 GST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.ProductsPageTest -->
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:13 GST" name="setUp" finished-at="2024-05-04T14:27:16 GST" duration-ms="3166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:16 GST" name="loginPageTitleTest" finished-at="2024-05-04T14:27:16 GST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:16 GST" name="tearDown" finished-at="2024-05-04T14:27:16 GST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:16 GST" name="setUp" finished-at="2024-05-04T14:27:19 GST" duration-ms="2891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="swagLogoImageTest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:19 GST" name="swagLogoImageTest" finished-at="2024-05-04T14:27:19 GST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swagLogoImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:19 GST" name="tearDown" finished-at="2024-05-04T14:27:20 GST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:20 GST" name="setUp" finished-at="2024-05-04T14:27:23 GST" duration-ms="2979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:23 GST" name="loginTest" finished-at="2024-05-04T14:27:23 GST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@6f19ac19]" started-at="2024-05-04T14:27:23 GST" name="tearDown" finished-at="2024-05-04T14:27:23 GST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+      <class name="com.crm.qa.testcases.CheckoutPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.CheckoutPageTest@63eef88a]" started-at="2024-05-04T14:27:04 GST" name="setUp" finished-at="2024-05-04T14:27:12 GST" duration-ms="7923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCheckoutPage(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CheckoutPageTest@63eef88a]" started-at="2024-05-04T14:27:12 GST" name="verifyCheckoutPage" data-provider="getCheckouTestData" finished-at="2024-05-04T14:27:13 GST" duration-ms="1191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rallapalli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123457.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CheckoutPageTest@63eef88a]" started-at="2024-05-04T14:27:13 GST" name="tearDown" finished-at="2024-05-04T14:27:13 GST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.CheckoutPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
